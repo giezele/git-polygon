@@ -1,2 +1,4 @@
 Line 1
 New line in file2
+
+git log --graph --all --oneline
