@@ -1,2 +1,6 @@
 Line 1
 New line in file2
+bugfix
+bugfix-two
+git log --graph --decorate --oneline --all
+git log --graph --oneline --branches
